@@ -70,7 +70,7 @@ Notice,Perception
 Empathy,Insight
 Cunning,Deception
 Occult,Perception
-Manipulate,Perception
+Manipulate,Deception
 Wild,Nature
 Spout Lore,Nature
 Lie Detection,Insight
@@ -78,3 +78,6 @@ Charm,Persuasion
 Trading,Persuasion
 Mobility,Acrobatics
 Befriend,Persuasion
+Travel,Survival
+Explore,Survival
+Investigate,Investigation
