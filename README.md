@@ -44,7 +44,7 @@
 			- Join Party
 			- Ghostpuncher
 			- Magpie
-			- Dice Cameras Action (Youtube Transcript)
+			- **NEW** Dice Cameras Action (Youtube Transcript)
 
 		To-do: 
 			- Aerois
